@@ -17,7 +17,7 @@ second, run command to start web server in your browser
 
 third, open this page in your browser:
 
-    localhost/5000/form
+    localhost:5000/form
 
 
 ****
