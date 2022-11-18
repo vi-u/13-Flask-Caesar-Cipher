@@ -3,13 +3,13 @@
 
 To run it,
 
-first, clone it and "cd" to directory "Input-Flask-Form"
+first, clone it and "cd" to directory "13-Flask-Caesar-Cipher"
 
     $ git clone https://github.com/vi-u/13-Flask-Caesar-Cipher.git
 
 then
 
-    $ cd Input-Flask-Form
+    $ cd 13-Flask-Caesar-Cipher
 
 second, run command to start web server in your browser
 
