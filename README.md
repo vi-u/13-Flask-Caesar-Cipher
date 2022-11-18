@@ -5,7 +5,7 @@ To run it,
 
 first, clone it and "cd" to directory "Input-Flask-Form"
 
-    $ git clone https://github.com/vi-u/Input-Flask-Form.git   
+    $ git clone https://github.com/vi-u/13-Flask-Caesar-Cipher.git
 
 then
 
